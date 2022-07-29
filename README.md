@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Tempestgf GitHub stats](https://github-readme-stats.vercel.app/api?username=tempestgf&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tempestgf)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=tempestgf&color=brightgreen)
