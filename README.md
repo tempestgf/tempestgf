@@ -24,7 +24,7 @@ My goal is to have a good time learning, studying and working.
 <a href="http://www.github.com/Tempestgf" align="left"><img align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Tempestgf&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Tempestgf's GitHub stats" /></a>
 
 
-<a href="http://www.github.com/Tempestgf" align="right"><img align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tempestgf&stroke=64748b&background=000000&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/Tempestgf" align="right"><img align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Tempestgf&stroke=64748b&background=000000&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 </div>
 
