@@ -11,13 +11,7 @@ I like to mess around with code flaws, exploits and vulnerabilities and look for
 
 My goal is to have a good time learning, studying and working.
 
-* 🖥️  See my portfolio at [my webpage](http://tempestgf.hopto.org)
-* ✉️  You can contact me at [tempestgf@protonmail.org](mailto:tempestgf@protonmail.org)
-* 🧠  I'm learning C++
-* ⚡  Tempestgf likes it fast
-
-
-### Github Stats
+# Github Stats
 
 
 <div width="100%" align="center">
@@ -31,12 +25,14 @@ My goal is to have a good time learning, studying and working.
 
 <a href="https://github.com/Tempestgf" align="right"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tempestgf&langs_count=8&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+# Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/Tempestgf/ArchLinux" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=ArchLinux&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tempestgf/dotfiles" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=dotfiles&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Tempestgf/ArchLinux" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=ArchLinux&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tempestgf/dotfiles" align="right"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=dotfiles&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-### Skills
 
+
+
+# Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -54,7 +50,7 @@ My goal is to have a good time learning, studying and working.
 </p>
 
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.codepen.io/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
