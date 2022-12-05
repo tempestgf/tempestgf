@@ -1,15 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tempestgf
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tempestgf
 =================================================================================================================================
 
 Love to Code, problem solving and thinking out of the matrix.
 -------------------------------------------------------------
 
-I stand out for being a programmer and cybersecurity analyst, so I am constantly updating myself with new technologies. I like to mess around with code flaws, exploits and vulnerabilities and look for new ones. My goal is to have a good time learning, studying and working.
+I stand out for being a programmer and cybersecurity analyst, 
+so I am constantly updating myself with new technologies. 
+
+I like to mess around with code flaws, exploits and vulnerabilities and look for new ones. 
+
+My goal is to have a good time learning, studying and working.
 
 * 🖥️  See my portfolio at [my webpage](http://tempestgf.hopto.org)
 * ✉️  You can contact me at [tempestgf@protonmail.org](mailto:tempestgf@protonmail.org)
 * 🧠  I'm learning C++
 * ⚡  Tempestgf likes it fast
+
+
+### Github Stats
+
+
+
+<a href="http://www.github.com/Tempestgf" align="left"><img align="left" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=Tempestgf&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Tempestgf's GitHub stats" /></a>
+
+<a href="http://www.github.com/Tempestgf" align="right"><img align="right" width="45%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tempestgf&stroke=64748b&background=000000&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+
+<a href="https://github.com/Tempestgf" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tempestgf&langs_count=8&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Tempestgf/ArchLinux" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=ArchLinux&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tempestgf/dotfiles" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=dotfiles&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Skills
 
@@ -34,20 +54,8 @@ I stand out for being a programmer and cybersecurity analyst, so I am constantly
 
 <p align="left"> <a href="https://www.codepen.io/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Tempestgf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tempestgf"><img src="https://github-readme-stats.vercel.app/api?username=Tempestgf&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Tempestgf's GitHub stats" /></a>
-
-<a href="http://www.github.com/Tempestgf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tempestgf&stroke=64748b&background=000000&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/Tempestgf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tempestgf&langs_count=10&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Tempestgf/ArchLinux" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=ArchLinux&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tempestgf/dotfiles" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tempestgf&repo=dotfiles&title_color=22c55e&text_color=64748b&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<!-- 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Tempestgf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Tempestgf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
+
