@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tempestgf
+Hey I'm Tempestgf
 =================================================================================================================================
 
 Love to Code, problem solving and thinking out of the matrix.
 -------------------------------------------------------------
 
-I stand out for being a programmer and cybersecurity analyst, 
-so I am constantly updating myself with new technologies. 
+#### I stand out for being a programmer and cybersecurity analyst, so I am constantly updating myself with new technologies. 
 
-I like to mess around with code flaws, exploits and vulnerabilities and look for new ones. 
+#### I like to mess around with code flaws, exploits and vulnerabilities and look for new ones. 
 
-My goal is to have a good time learning, studying and working.
+#### My goal is to have a good time learning, studying and working.
 
 # Github Stats
 
