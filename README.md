@@ -150,12 +150,6 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
-  <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
-</div>
-
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(255, 102, 0, 0), rgba(255, 102, 0, 1), rgba(255, 102, 0, 0));">
 
 <a name="contact"></a>
