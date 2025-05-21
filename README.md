@@ -13,7 +13,7 @@
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Analyst+%26+Code+Explorer;Exploiting+Vulnerabilities+Since+20XX;The+System+Is+Never+Secure;Code.+Hack.+Defend.+Repeat.;Breaking+Boundaries%2C+Building+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Analyst+%26+Code+Explorer;Exploiting+Vulnerabilities+Since+2020;The+System+Is+Never+Secure;Code.+Hack.+Defend.+Repeat.;Breaking+Boundaries%2C+Building+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
